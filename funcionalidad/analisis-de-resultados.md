@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Intents"
+title: "Análisis de resultados"
 permalink: /funcionalidad/analisis-de-resultados
 ---
 
----
 
 
 
