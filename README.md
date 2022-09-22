@@ -15,19 +15,19 @@ En ella se le presentan los siguientes componentes:
 De izquierda a derecha le permiten las siguientes acciones:
 
 
-_Iniciar una cirugía phaco creando un paciente_
+_Iniciar una cirugía phaco creando un paciente_  [+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-nuevo-paciente.md)
 
 Cuando no tiene creado el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.
 
-_Iniciar una cirugía phaco desde un paciente existente_
+_Iniciar una cirugía phaco desde un paciente existente_  [+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-paciente-existente.md)
 
 Si ya tiene el paciente creado, no puede crearlo de nuevo y tiene que realizar la asignación de la cirugía desde aquí.
 
-_Ver las métricas de las cirugías_
+_Ver las métricas de las cirugías_  [+ Info](https://docs.phacobook.com/funcionalidad/metricas.md)
 
 Aquí puede ver las métricas de sus cirugías. Progresivamente se irán añadiendo coeficientes y ratios que puedan ser de interés.
 
-_Filtrar pacientes según resultados_
+_Filtrar pacientes según resultados_  [+ Info](https://docs.phacobook.com/funcionalidad/analisis-de-resultados.md)
 
 Además de visualizar la distribución de los valores de los formularios, si quiere detectar los pacientes que cumplen con un resultado en alguno de los formularios, los podrá listar con esta herramienta.
 
