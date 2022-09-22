@@ -1,5 +1,5 @@
 
-Nada más logearse accedera a la home de la aplicación:
+Nada más logearse accederá a la home de la aplicación:
 
 
 ![vista del home en hacobook](https://docs.phacobook.com/assets/images/home_es.png)
@@ -11,12 +11,7 @@ En ella además de los 2 gráficos y de la tabla de phacos dados de alta en el s
 
 ![vista del home en hacobook](https://docs.phacobook.com/assets/images/menuSuperior.png)
 
-2. Una serie de botones con acciones principales
-
-![vista del home en hacobook](https://docs.phacobook.com/assets/images/buttonGroupNav_es.png)
-
-
-## Funciones básicas de la aplicación:
+De izquierda a derecha le permiten las siguientes acciones:
 
 + Iniciar una cirugía phaco creando un paciente
 
@@ -25,3 +20,13 @@ En ella además de los 2 gráficos y de la tabla de phacos dados de alta en el s
 + Ver las métricas de las cirugías.
 
 + Filtrar pacientes según resultados
+
+
+2. Una serie de botones con una selección de acciones principales
+
+![vista del home en hacobook](https://docs.phacobook.com/assets/images/buttonGroupNav_es.png)
+
+
+
+
+
