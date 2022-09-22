@@ -1,0 +1,56 @@
+---
+---
+
+
+.highlighter-rouge .highlight{
+  background-color: #f6f8fa !important;
+  border-color: #d0d7de !important;
+}
+
+code{
+    background-color: #f6f8fa !important;
+}
+
+.site-header{
+  border-top:5px solid #e8e8e8;
+}
+
+.site-title::before {
+  content: url("/assets/phacobook.png");
+  display: inline-block;
+  position: relative;
+  width: 50px;
+  top: 10px;
+}
+
+.site-title{
+   color: #001529 !important;
+}
+
+.site-nav .page-link{
+    color:#001529;
+}
+
+
+
+@media (min-width: 600px) {
+  .wrapper{
+    max-width:90%;
+    width:1920px;
+  }
+  
+.site-title{
+   color: #001529 !important;
+   font-size: 25px;
+  }
+}
+
+
+
+
+
+@media (max-width: 600px) {
+  .site-title{
+    font-size:23px;
+  }
+}
