@@ -48,5 +48,7 @@ Aquí aparecen las opciones del menú anterior pero accesibles con mayor facilid
 
 En la tabla junto con las características de cada cirugía (paciente, tipo de cirugía y estado de cumplimentación del flujo quirúrgico), puede acceder al siguiente formulario por rellenar según corresponda.
 
+![vista del home en hacobook](https://docs.phacobook.com/assets/images/fillOutMedoms_es.png)
+
 
 
