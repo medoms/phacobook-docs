@@ -1,36 +1,52 @@
 
-Nada más logearse accederá a la home de la aplicación. Siempre puede volver a ella clickeando el botón con la casa. Está pensada para dar acceso con un solo click a toda la funcionalidad del sistema.
+Nada más logearse accederá a la home de la aplicación, o a la página que usó cuando se le expiró la sesión, en el caso de haber estado usando el sistema previmente.  
+Siempre puede volver a ella clickeando el botón con el icono de la casa. Está pensada para dar acceso con un solo click a toda la funcionalidad del sistema.
 
 
 ![vista del home en hacobook](https://docs.phacobook.com/assets/images/home_es.png)
 
 
-En ella además de los 2 gráficos y de la tabla de phacos dados de alta en el sistema se le presentan dos opciones de navegación:
+En ella se le presentan los siguientes componentes:
 
-**Un grupo de botones en la parte superior derecha.**
+**1 Un grupo de botones en la parte superior derecha.**
 
 ![vista del home en hacobook](https://docs.phacobook.com/assets/images/menuSuperior.png)
 
 De izquierda a derecha le permiten las siguientes acciones:
 
 
-+ Iniciar una cirugía phaco creando un paciente
-Cuando no tiene el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.
+_Iniciar una cirugía phaco creando un paciente_
 
-+ Iniciar una cirugía phaco desde un paciente existente
+Cuando no tiene creado el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.
+
+_Iniciar una cirugía phaco desde un paciente existente_
+
 Si ya tiene el paciente creado, no puede crearlo de nuevo y tiene que realizar la asignación de la cirugía desde aquí.
 
-+ Ver las métricas de las cirugías.
-Progresivamente se 
+_Ver las métricas de las cirugías_
 
-+ Filtrar pacientes según resultados
+Aquí puede ver las métricas de sus cirugías. Progresivamente se irán añadiendo coeficientes y ratios que puedan ser de interés.
 
+_Filtrar pacientes según resultados_
 
-**Una serie de botones con una selección de acciones principales**
+Además de visualizar la distribución de los valores de los formularios, si quiere detectar los pacientes que cumplen con un resultado en alguno de los formularios, los podrá listar con esta herramienta.
+
+**2 Una serie de botones con una selección de acciones principales**
 
 ![vista del home en hacobook](https://docs.phacobook.com/assets/images/buttonGroupNav_es.png)
 
+Aquí aparecen las opciones del menú anterior pero accesibles con mayor facilidad por si se está accediendo en disposivo móvil.
 
+**3 Un par de gráficos con los pacientes y cirugías dadas de alta**
+
+![vista del home en hacobook](https://docs.phacobook.com/assets/images/homeGraph.png)
+
+
+**4 Un listado de las últimas cirugías que ha dado de alta en el sistema**
+
+![vista del home en hacobook](https://docs.phacobook.com/assets/images/phacoTable.png)
+
+En la tabla junto con las características de cada cirugía (paciente, tipo de cirugía y estado de cumplimentación del flujo quirúrgico), puede acceder al siguiente formulario por rellenar según corresponda.
 
 
 
