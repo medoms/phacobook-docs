@@ -15,21 +15,21 @@ En ella se le presentan los siguientes componentes:
 De izquierda a derecha le permiten las siguientes acciones:
 
 
-_Iniciar una cirugía phaco creando un paciente_  [+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-nuevo-paciente.md)
+_- Iniciar una cirugía phaco creando un paciente_  
 
-Cuando no tiene creado el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.
+Cuando no tiene creado el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.[+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-nuevo-paciente.md)
 
-_Iniciar una cirugía phaco desde un paciente existente_  [+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-paciente-existente.md)
+_- Iniciar una cirugía phaco desde un paciente existente_  
 
-Si ya tiene el paciente creado, no puede crearlo de nuevo y tiene que realizar la asignación de la cirugía desde aquí.
+Si ya tiene el paciente creado, no puede crearlo de nuevo y tiene que realizar la asignación de la cirugía desde aquí.[+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-paciente-existente.md)
 
-_Ver las métricas de las cirugías_  [+ Info](https://docs.phacobook.com/funcionalidad/metricas.md)
+_- Ver las métricas de las cirugías_  
 
-Aquí puede ver las métricas de sus cirugías. Progresivamente se irán añadiendo coeficientes y ratios que puedan ser de interés.
+Aquí puede ver las métricas de sus cirugías. Progresivamente se irán añadiendo coeficientes y ratios que puedan ser de interés.[+ Info](https://docs.phacobook.com/funcionalidad/metricas.md)
 
-_Filtrar pacientes según resultados_  [+ Info](https://docs.phacobook.com/funcionalidad/analisis-de-resultados.md)
+_- Filtrar pacientes según resultados_  
 
-Además de visualizar la distribución de los valores de los formularios, si quiere detectar los pacientes que cumplen con un resultado en alguno de los formularios, los podrá listar con esta herramienta.
+Además de visualizar la distribución de los valores de los formularios, si quiere detectar los pacientes que cumplen con un resultado en alguno de los formularios, los podrá listar con esta herramienta.[+ Info](https://docs.phacobook.com/funcionalidad/analisis-de-resultados.md)
 
 **2 Una serie de botones con una selección de acciones principales**
 
