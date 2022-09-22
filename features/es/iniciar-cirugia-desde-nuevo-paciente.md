@@ -1,1 +1,0 @@
-Primero creará el paciente
