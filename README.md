@@ -39,12 +39,12 @@ Aquí aparecen las opciones del menú anterior pero accesibles con mayor facilid
 
 **3 Un par de gráficos con los pacientes y cirugías dadas de alta**
 
-![vista del home en hacobook](https://docs.phacobook.com/assets/images/homeGraph.png)
+![vista del home en hacobook](https://docs.phacobook.com/assets/images/homeGraph_es.png)
 
 
 **4 Un listado de las últimas cirugías que ha dado de alta en el sistema**
 
-![vista del home en hacobook](https://docs.phacobook.com/assets/images/phacoTable.png)
+![vista del home en hacobook](https://docs.phacobook.com/assets/images/phacoTable_es.png)
 
 En la tabla junto con las características de cada cirugía (paciente, tipo de cirugía y estado de cumplimentación del flujo quirúrgico), puede acceder al siguiente formulario por rellenar según corresponda.
 
