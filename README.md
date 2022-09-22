@@ -17,19 +17,19 @@ De izquierda a derecha le permiten las siguientes acciones:
 
 _- Iniciar una cirugía phaco creando un paciente_  
 
-Cuando no tiene creado el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.[+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-nuevo-paciente.md)
+Cuando no tiene creado el paciente cuya cirugía quiere dar de alta, esta es la opción más rápida.[+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-nuevo-paciente)
 
 _- Iniciar una cirugía phaco desde un paciente existente_  
 
-Si ya tiene el paciente creado, no puede crearlo de nuevo y tiene que realizar la asignación de la cirugía desde aquí.[+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-paciente-existente.md)
+Si ya tiene el paciente creado, no puede crearlo de nuevo y tiene que realizar la asignación de la cirugía desde aquí.[+ Info](https://docs.phacobook.com/funcionalidad/iniciar-phaco-desde-paciente-existente)
 
 _- Ver las métricas de las cirugías_  
 
-Aquí puede ver las métricas de sus cirugías. Progresivamente se irán añadiendo coeficientes y ratios que puedan ser de interés.[+ Info](https://docs.phacobook.com/funcionalidad/metricas.md)
+Aquí puede ver las métricas de sus cirugías. Progresivamente se irán añadiendo coeficientes y ratios que puedan ser de interés.[+ Info](https://docs.phacobook.com/funcionalidad/metricas)
 
 _- Filtrar pacientes según resultados_  
 
-Además de visualizar la distribución de los valores de los formularios, si quiere detectar los pacientes que cumplen con un resultado en alguno de los formularios, los podrá listar con esta herramienta.[+ Info](https://docs.phacobook.com/funcionalidad/analisis-de-resultados.md)
+Además de visualizar la distribución de los valores de los formularios, si quiere detectar los pacientes que cumplen con un resultado en alguno de los formularios, los podrá listar con esta herramienta.[+ Info](https://docs.phacobook.com/funcionalidad/analisis-de-resultados)
 
 **2 Una serie de botones con una selección de acciones principales**
 
