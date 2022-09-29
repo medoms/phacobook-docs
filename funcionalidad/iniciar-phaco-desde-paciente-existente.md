@@ -7,4 +7,4 @@ permalink: /funcionalidad/iniciar-phaco-desde-paciente-existente
 
 
 
-[![Video de Reporting](https://docs.phacobook.com/assets/images/videoThumbnail.png)](https://www.phacobook.com/assets/video/registerUserAdminSample.mp4) "Registro de Usuario")
+[![Video de Reporting](https://docs.phacobook.com/assets/images/videoThumbnail.png)](https://www.phacobook.com/assets/video/registerUserAdminSample.mp4 "titulo del vídeo")
