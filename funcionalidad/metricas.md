@@ -4,6 +4,7 @@ title: "Métricas Quirúrgicas"
 permalink: /funcionalidad/metricas
 ---
 
+En este area de la aplicación aparecen métricas de las cirugías que se han introducido en la plataforma, con el paso del tiempo irán añadiéndose otras en función de los requerimientos.
 
 Cáculo del Astigmatimso Inducido:
 
