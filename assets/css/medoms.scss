@@ -32,7 +32,11 @@ code{
     color:#001529;
 }
 
-
+p > a > img {
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+}
 
 @media (min-width: 600px) {
   .wrapper{
