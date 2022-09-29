@@ -3,7 +3,7 @@ Nada más logearse accederá a la home de la aplicación, o a la página que us�
 Siempre puede volver a ella clickeando el botón con el icono de la casa. Está pensada para dar acceso con un solo click a toda la funcionalidad del sistema.
 
 
-![vista del home en hacobook](https://docs.phacobook.com/assets/images/home_es.png)
+![vista del home en Phacobook](https://docs.phacobook.com/assets/images/home_es.png)
 
 
 En ella se le presentan los siguientes componentes:
